@@ -30,6 +30,7 @@ switch($edad)
         break;
     default:
     echo"Ninguna de las anteriores"
+    
 }
 
 ?>
