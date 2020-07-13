@@ -31,6 +31,7 @@ switch($edad)
     default:
     echo"Su edad no es ninguna de las anteriores"
     
+    
 }
 
 ?>
