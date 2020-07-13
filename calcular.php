@@ -1,3 +1,4 @@
+"" 
 <?php 
 $cantidad = $_POST['cantidad'];
 $subtotal = $cantidad*125;
@@ -29,5 +30,4 @@ switch($edad)
         echo "El doble de tu edad";
         break;
 }
-
 ?>
