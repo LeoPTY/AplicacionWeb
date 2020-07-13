@@ -29,5 +29,11 @@ switch($edad)
     case 48:
         echo "El doble de tu edad";
         break;
+<<<<<<< HEAD
+=======
+    default:
+    echo"Su edad no es ninguna de las anteriores"
+    
+>>>>>>> issue2
 }
 ?>
